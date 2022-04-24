@@ -1,3 +1,3 @@
 # Repositório do Primeiro Desafio: Git/Github
 
-Desafio de Projeto de Github do Bootcamp GFT Start Woman Java.
+Repositório criado para os projetos propostos pelo Bootcamp GFT Start Woman Java, desenvolvido pelo DIO.
